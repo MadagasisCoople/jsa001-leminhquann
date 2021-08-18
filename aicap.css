@@ -1,0 +1,56 @@
+@font-face {
+    font-family: he;
+    src: url('NanumPenScript-Regular.ttf');
+}
+@font-face {
+    font-family: hehe;
+    src: url('Youmurdererbb-pwoK.otf');
+}
+@font-face {
+    font-family: hehehe;
+    src: url('WindSong-Medium.ttf');
+}
+.aicap{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 697px;
+    background-color: black;
+    background-size: 100%;
+    text-align: center;
+ 
+}
+
+.aicap1{
+    color: red;
+    margin-top: 0px;
+    font-size: 1200%;
+    font-family: hehe;
+    font-weight: 100;
+}
+body{
+    -webkit-user-select:none;
+    -khtml-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none }
+.nha1{
+    position: absolute;
+    top: 124px;
+    right: 47px;
+    width: 356px;
+    height: 459px;
+    background-image: url('./picture/02.png');
+    background-size: 100%;
+    border: 0px;
+}
+.nha2{
+    position: absolute;
+    top: 57.3px;
+    right: 402.5px;
+    width: 177px;
+    height: 425px;
+    background-image: url('./picture/03.png');
+    background-size: 100%;
+    border: 0px;
+}
